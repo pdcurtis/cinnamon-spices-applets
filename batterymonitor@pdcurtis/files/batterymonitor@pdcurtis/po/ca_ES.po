@@ -1,0 +1,187 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-31 15:17+0100\n"
+"PO-Revision-Date: 2019-02-20 22:24+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: Solatec informàtica <solatec@solatec.cat>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: ca_ES\n"
+
+#: applet.js:55
+msgid "Ok"
+msgstr "D'acord"
+
+#: applet.js:173
+msgid "Waiting"
+msgstr "Esperant"
+
+#: applet.js:239
+msgid "Open Power Statistics"
+msgstr "Obrir Estadístiques de l'energia"
+
+#: applet.js:245
+msgid "Open System Monitor"
+msgstr "Obrir Monitor del sistema"
+
+#: applet.js:254
+msgid "Housekeeping and System Sub Menu"
+msgstr "Personalització i resolució de problemes"
+
+#: applet.js:257
+msgid "View the Changelog"
+msgstr "Veure el registre de canvis"
+
+#: applet.js:263
+msgid "Open the Help file"
+msgstr "Obrir l'ajuda"
+
+#: applet.js:269
+msgid "Open stylesheet.css  (Advanced Function)"
+msgstr "Obrir el fitxer d'estils (Funciona avançada)"
+
+#. batterymonitor@pdcurtis->metadata.json->name
+#: applet.js:285
+msgid "Battery  Applet with Monitoring and Shutdown (BAMS)"
+msgstr "Complement de bateria. Amb monitoratge i apagat del sistema (BAMS)"
+
+#: applet.js:290
+msgid "Waiting for battery information"
+msgstr "Esperant la informació de la bateria"
+
+#: applet.js:353
+msgid "Battery Low - turn off or connect to mains"
+msgstr "Bateria baixa. Apaga el sistema o connecta el carregador"
+
+#: applet.js:358
+msgid ""
+"The Battery Level has fallen to your alert level\n"
+"\n"
+" either reconnect to a power source\n"
+"or close down your work and suspend or shutdown the machine"
+msgstr ""
+"El nivell de la bateria s'acosta al teu nivell d'alerta.\n"
+"\n"
+"Connecta el carregador\n"
+"o desa les teves feines i apaga o suspèn l'equip"
+
+#: applet.js:375
+msgid "Battery Critical will Suspend unless connected to mains"
+msgstr "Bateria crítica. Es suspendrà l'equip si no el connecteu a la corrent"
+
+#: applet.js:393
+msgid "Charge:"
+msgstr "Càrrega:"
+
+#: applet.js:393
+msgid "Alert:"
+msgstr "Alerta:"
+
+#: applet.js:393
+msgid "Suspend:"
+msgstr "Suspendre:"
+
+#: applet.js:451
+msgid "Percentage Charge:"
+msgstr "Percentatge de càrrega:"
+
+#: applet.js:451
+msgid "Alert at:"
+msgstr "Alerta a:"
+
+#: applet.js:451
+msgid "Suspend at:"
+msgstr "Suspendre a:"
+
+#. batterymonitor@pdcurtis->settings-schema.json->displayType->options
+msgid ""
+"Classic - Battery Percentage with extended messages for horizontal panel"
+msgstr ""
+"Clàssic - Percentatge de la bateria amb missatges estesos per panell "
+"horitzontal"
+
+#. batterymonitor@pdcurtis->settings-schema.json->displayType->options
+msgid "Classic Plus - Classic with addition of Battery Icon"
+msgstr "Clàssic Plus - Clàssic amb icona de la bateria"
+
+#. batterymonitor@pdcurtis->settings-schema.json->displayType->options
+msgid "Compact Plus - Compact  with addition of Battery Icon"
+msgstr "Compacte Plus - Compacte amb icona de la bateria"
+
+#. batterymonitor@pdcurtis->settings-schema.json->displayType->options
+msgid "Compact - Battery Percentage without extended messages"
+msgstr "Compacte - Percentatge de la bateria sense missatges estesos"
+
+#. batterymonitor@pdcurtis->settings-schema.json->displayType->options
+msgid "Icon Only on coloured background indicating status"
+msgstr "Només icona sobre el fons de color indicant l'estat"
+
+#. batterymonitor@pdcurtis->settings-schema.json->displayType->tooltip
+msgid ""
+"This feature offers the Classic (original) display with optional battery "
+"icon and some more compact displays suitable for a vertical panel "
+"(CompactCompact Plus and Icon Only)"
+msgstr ""
+"Aquesta funció ofereix la pantalla Clàssic (original) amb la icona opcional "
+"de la bateria i algunes pantalles més compactes adequades per a un panell "
+"vertical (Compacte, Compacte Plus i només icona)"
+
+#. batterymonitor@pdcurtis->settings-schema.json->displayType->description
+msgid "Type of Display"
+msgstr "Mode de visualització"
+
+#. batterymonitor@pdcurtis->settings-schema.json->head->description
+msgid "General Settings for the Battery Applet with Monitoring and Shutdown"
+msgstr ""
+"Ajustaments generals pel complement de bateria. Amb monitoratge i apagat del "
+"sistema (BAMS)"
+
+#. batterymonitor@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->description
+msgid "Refresh Interval for Display:"
+msgstr "Interval de refresc per la visualització:"
+
+#. batterymonitor@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->tooltip
+msgid ""
+"Increase or decrease this spinner value to change the refresh interval - use "
+"a slow refresh if you have a slow machine. This also governs the flash speed."
+msgstr ""
+"Augmenteu o reduïu el valor per canviar l'interval d'actualització: "
+"utilitzeu una actualització lenta si teniu una màquina lenta."
+
+#. batterymonitor@pdcurtis->settings-schema.json->refreshInterval-
+#. spinner->units
+msgid "seconds"
+msgstr "segons"
+
+#. batterymonitor@pdcurtis->settings-schema.json->head1->description
+msgid "Display Mode"
+msgstr "Mode de visualització"
+
+#. batterymonitor@pdcurtis->settings-schema.json->alertPercentage->description
+msgid "Percentage Battery Charge at which Alert Displayed"
+msgstr "Percentatge de càrrega de la bateria per mostrar la alerta"
+
+#. batterymonitor@pdcurtis->settings-schema.json->alertPercentage->tooltip
+msgid ""
+"Percentage of Battery Charge at which Orange Warning Background is displayed "
+"- It is also shown and can be adjusted in the Applet left click menu"
+msgstr ""
+"Percentatge de càrrega de la bateria en què es mostra el fons d'advertència "
+"taronja.També es mostra i es pot ajustar al menú de clic esquerre de la "
+"miniaplicació"
+
+#. batterymonitor@pdcurtis->metadata.json->description
+msgid "Displays Charge as Percentage and allows Alerts and Actions"
+msgstr "Mostra la càrrega com a percentatge i permet alertes i accions"
